@@ -6,7 +6,6 @@
 [![License](https://img.shields.io/pypi/l/DeepLearningUtils)][license]
 
 [![Read the documentation at https://DeepLearningUtils.readthedocs.io/](https://img.shields.io/readthedocs/DeepLearningUtils/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/Boardsman/DeepLearningUtils/workflows/Tests/badge.svg)][tests]
 [![Codecov](https://codecov.io/gh/Boardsman/DeepLearningUtils/branch/main/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
