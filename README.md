@@ -14,7 +14,6 @@
 
 [pypi status]: https://pypi.org/project/DeepLearningUtils/
 [read the docs]: https://DeepLearningUtils.readthedocs.io/
-[tests]: https://github.com/Boardsman/DeepLearningUtils/actions?workflow=Tests
 [codecov]: https://app.codecov.io/gh/Boardsman/DeepLearningUtils
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
